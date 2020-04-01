@@ -1,0 +1,134 @@
+
+/* ------------Form styles---------- */
+.formStyle1{
+    background-color:#02426785;
+    margin-top:8%;
+    max-width: 78%;
+    box-shadow: 10px 10px 10px #d3cece3b;
+    width: auto;
+    padding: 20px;
+}
+
+.formHeading1{
+    font-weight: 600;
+    color: white;
+    font-size: 31px;
+    border-bottom-style: solid;
+    border-width: thin;
+    padding: 25px;
+    margin-top: 14px;
+    border-color: #d5d5d5;
+    padding-bottom: 30px;
+}
+
+.formItems1{
+    /* margin-top:7%; */
+    /* background: #8080802b; */
+    padding: 25px;
+}
+
+#formLine1{
+    color: white;
+    margin-bottom: 35px;
+    font-size: 15px;
+}
+
+#formInput1{
+    padding: 17px;
+    width: 100%;
+    font-size: 15px;
+    color: gray;
+}
+
+.formInputLabels{
+    margin-top: 35px;
+}
+
+/* .optionStylings{
+    padding: 15px;
+    color:gray;
+} */
+#optionStylings1{
+    padding: 30px 20px 10px 15px;
+    color: #808080;
+    background-color: transparent;
+    margin-top: -27px;
+}
+.stylings{
+    padding: 30px 20px 10px 20px;
+    /* color: #808080; */
+    background-color: transparent;
+    margin-top: -27px;
+    width: 48.2%;
+    border-style: solid;
+    border-width: thin;
+    border-color: darkgrey;
+    font-size: 15px;
+    color: white !important;
+}
+
+.labelStyle{
+    margin-left: 20px;
+    color: #dedcdc !important;
+    font-size: 12px;
+}
+
+
+.margintop10{
+    margin-top: 10px;
+}
+.margintop22{
+    margin-top: 35px;
+}
+.margintop45{
+    margin-top: 41px;
+}
+
+.buttonStyling1{
+    border-radius: 21px;
+    width: 18%;
+    padding: 10px;
+    background: white;
+    color: #0067db;
+    border-color: darkgrey;
+    margin-right: 27%;
+}
+.buttonStyling1:focus{
+    border-radius: 21px;
+    width: 18%;
+    padding: 10px;
+    background: white;
+    color: #0067db;
+    border-color: darkgrey;
+    margin-right: 27%;
+}
+.buttonStyling2{
+    border-radius: 21px;
+    width: 18%;
+    padding: 10px;
+    background: #0067db;
+}
+
+#backButton:hover{
+    background: white;
+    color: #0067db;
+}
+
+.errorColm1{
+    border-color: #ffd7d7;
+    border-width: thin;
+    background: rgb(255, 246, 246);
+    border-style: solid;
+    padding: 5%;
+    font-size: 15px;
+    height: 101px;
+    margin-bottom: 25px;
+
+}
+
+.fonticons1{
+    color: rgb(255, 72, 72);
+    font-size: 35px;
+    float: left;
+    margin-right: 10px;
+}

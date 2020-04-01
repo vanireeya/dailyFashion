@@ -1,0 +1,215 @@
+
+/* ------------Form styles---------- */
+.formStyle{
+    background-color: white;
+    margin-top:8%;
+    max-width: 80%;
+    box-shadow: 10px 10px 10px #d3cece3b;
+    width: auto;
+    padding: 20px;
+}
+
+.formHeading4{
+    text-align: center;
+    font-weight: 600;
+    font-size: 17px;
+    border-bottom-style: solid;
+    border-width: thin;
+    padding: 25px;
+    margin-top: 14px;
+    border-color: #d5d5d5;
+    padding-bottom: 30px;
+}
+
+.formItems4{
+    /* margin-top:7%; */
+    /* background: #8080802b; */
+    padding: 25px;
+}
+
+#formLine4{
+    /* color: #0067db; */
+    margin-bottom: 35px;
+    font-size: 15px;
+    width: 47%;
+    float: left;
+}
+
+#formInput{
+    padding: 17px;
+    width: 100%;
+    font-size: 15px;
+    color: gray;
+}
+
+.formInputLabels{
+    margin-top: 35px;
+}
+
+/* .optionStylings{
+    padding: 15px;
+    color:gray;
+} */
+#optionStylings{
+    padding: 30px 20px 10px 15px;
+    color: #2e2c2c;
+    background-color: transparent;
+    margin-top: -27px;
+}
+.stylings{
+    padding: 30px 20px 10px 20px;
+    color: #2e2c2c;
+    background-color: transparent;
+    margin-top: -27px;
+    width: 48.2%;
+    border-style: solid;
+    border-width: thin;
+    border-color: darkgrey;
+}
+
+.labelStyle{
+    margin-left: 20px;
+    color: gray;
+    font-size: 12px;
+}
+
+
+.margintop10{
+    margin-top: 10px;
+}
+.margintop22{
+    margin-top: 35px;
+}
+.margintop45{
+    margin-top: 41px;
+}
+
+.buttonStyling1{
+    border-radius: 21px;
+    width: 18%;
+    padding: 10px;
+    background: white;
+    color: #0067db;
+    border-color: darkgrey;
+    margin-right: 27%;
+}
+.buttonStyling1:focus{
+    border-radius: 21px;
+    width: 18%;
+    padding: 10px;
+    background: white;
+    color: #0067db;
+    border-color: darkgrey;
+    margin-right: 27%;
+}
+.buttonStyling2{
+    border-radius: 21px;
+    width: 18%;
+    padding: 10px;
+    background: #0067db;
+}
+
+#backButton:hover{
+    background: white;
+    color: #0067db;
+}
+
+.imageStyle{
+    border-style: dashed;
+    border-color: #8080808c;
+}
+
+.icon{
+    background-image: url("//csvcus.homeaway.com/rsrcs/72/834F1FCACA3E508031920D6FBFDC62-blockOut_unselected.svg");
+}
+.icon2s{
+    background-image: url("//csvcus.homeaway.com/rsrcs/72/834F1FCACA3E508031920D6FBFDC62-blockOut_unselected.svg");
+}
+
+.imageBox{
+    text-align: center;
+    padding: 20% 8% 8% 8%;
+   
+}
+
+.availableBox1{
+    background-image: url("//csvcus.homeaway.com/rsrcs/72/834F1FCACA3E508031920D6FBFDC62-blockOut_unselected.svg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-style: solid;
+    border-width: thin;
+        border-color: #d7d8da;
+    /* color */
+}
+.availableBox1:hover{
+    background-image: url("http://csvcus.homeaway.com/rsrcs/82/B43CA9FA2FB92C9358A6D7F3CA4308-blockOut_selected.svg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-color: #0067db;
+}
+.availableBox2{
+    background-image: url("http://csvcus.homeaway.com/rsrcs/69/7324912D3B1392930C8AC3B9BF313F-selectDates_unselected.svg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-style: solid;
+    border-width: thin;    
+    border-color:#d7d8da;
+    /* color */
+}
+.availableBox2:hover{
+    background-image: url("http://csvcus.homeaway.com/rsrcs/23/5A8B7AD986CED6F9D45A050A5AC8F0-selectDates_selected.svg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-color: #0067db !important;
+}
+
+.outerdiv{
+    margin-top: -13%;
+    margin-bottom: 70%;
+}
+
+.padding1{
+    padding: 1%
+}
+
+.subdiv2{
+    color: #598eca;
+    padding: 2% 2% 13.4% 2%;
+    font-size: 20px;
+}
+.subdiv2_2{
+    color: #598eca;
+    padding: 2%;
+    font-size: 20px;
+}
+
+.fontstyling{
+    font-size: 14px;
+    color: #626262;
+}
+.padding2{
+    padding: 5% 12% 5% 5%;
+    font-size: 1.25em;
+    color: #72787c;
+    width: 49%
+}
+
+.errorColm{
+    border-color: #ffd7d7;
+    border-width: thin;
+    background: rgb(255, 246, 246);
+    border-style: solid;
+    padding: 5%;
+    font-size: 15px;
+    width: 92.2%;
+    height: 101px;
+    margin-top: 38px;
+    margin-left: 26px;
+}
+
+.fonticons{
+    color: rgb(255, 72, 72);
+    font-size: 35px;
+    float: left;
+    margin-right: 10px;
+}

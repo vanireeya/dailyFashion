@@ -1,0 +1,121 @@
+#mainDiv3{
+    background-image: url('home3.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: 50%;
+    /* height: 80%; */
+    /* background-position: center; */
+
+}
+
+#mainHeading3{
+    color: black;
+    font-weight: 400;
+    font-family: cursive;
+    /* font-family: Lato,Arial,Helvetica Neue,sans-serif; */
+    font-size: 37px;
+}
+
+
+
+.navbar-nav>li>a:hover{
+
+    background-color:transparent;
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color:transparent;
+    border-color: #337ab7;
+}
+
+
+.dropList{
+    padding: 10px !important;
+    color: black !important;
+    font-family: Lato,Arial,Helvetica Neue,sans-serif;
+    font-size: 15px;
+    }
+.dropList:hover{
+    background-color: black !important;
+    color: white !important;
+}
+
+#noFocus:focus{
+
+    background-color:transparent;
+}
+#searchButton{
+
+
+
+    border-radius: 6px;
+    color: black;
+    font-size: 13.5px;
+    padding: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    float: left;
+    background-color: #ffffffc9;
+
+    /* padding-left: 22%;
+    padding-right: 22%;
+    padding-top: 7%;
+    padding-bottom: 7%; */
+    /* float:left; */
+
+    /* position: relative;
+    margin-right: 5px !important; */
+}
+
+.headingText{
+    margin-left: 13%;
+    color: white;
+    margin-top: 10%;
+    font-size: 37px;
+}
+
+.searchButton{
+
+    background-color: white;
+    border-radius: 6px;
+    width: 14%;
+    margin-left: 44%;
+    padding: 16px;
+    color: grey;
+    border-color: white !important;
+    
+   
+}
+
+.searchContainer1{
+    padding: 6px;
+    width: 72%;
+    margin-left: 13%;
+    background-color: #0000002e;
+}
+.searchContainer{
+    background-color: #11033f21;
+    padding: 2.5%;
+    margin-bottom: -5.4%;
+    width: 73%;
+    margin-left: 10%;
+}
+
+.smallInfo{
+    text-align: center;
+    color: white
+}
+
+.smallFontInfo{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+.smallestInfo{
+    font-size: .9vw;
+}
+
+
+.nav-headings{
+    color: black !important;
+    font-size: 17px !important;
+    font-family: cursive !important;
+}
